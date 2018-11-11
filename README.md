@@ -1,0 +1,2 @@
+# Escape-Room
+A simple 3D game built in Unreal Engine 4 using C++ that stimulates an escape room. The player is locked inside a room and there is visual hint from lighting that points towards a pressure plate. Once the pressure plate has enough weight on it the door will open, but the player must find a way to keep the door open which in turn means keeping the pressure plate pressed. The game was part of an online course which I followed on Udemy. 
